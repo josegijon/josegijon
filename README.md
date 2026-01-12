@@ -62,7 +62,7 @@ They include:
 
 ---
 
-## 🌍 Idiomas
+## 🌍 Languages
 
 - **Spanish:** Native
 - **English:** In progress
